@@ -8,6 +8,12 @@ return 55
 }
 
 
+
+const e= () =>{
+return 9
+}
+
+
 const d= () =>{
 return 8
 }
@@ -15,3 +21,4 @@ const c= () =>{
 return 1111
 
 }
+
