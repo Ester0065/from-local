@@ -11,3 +11,6 @@ return 55
 const e= () =>{
 return 9
 }
+const c= () =>{
+return 1111
+}
