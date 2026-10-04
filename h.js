@@ -6,3 +6,7 @@ const b= () =>{
 return 11
 return 55
 }
+
+const c= () =>{
+return 1111
+}
