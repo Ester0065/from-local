@@ -7,6 +7,11 @@ return 11
 return 55
 }
 
+
+const d= () =>{
+return 8
+}
 const c= () =>{
 return 1111
+
 }
